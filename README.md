@@ -250,4 +250,4 @@ Having trouble? 🤔
 - Contact us at support@example.com
 
 ---
-Made with 🧠 and ❤️ by [Walker](https://github.com/ktawiah) 
+Made with 🧠 and ❤️ 
